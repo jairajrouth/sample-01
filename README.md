@@ -1,2 +1,2 @@
 # sample-01
-Sample Repository for Project-01
+I am a beginner in Github..
